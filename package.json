@@ -1,0 +1,20 @@
+{
+  "name": "vdrsworldcupedition",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1",
+    "vite": "^5.0.8"
+  },
+  "dependencies": {
+    "cannon": "^0.6.2",
+    "three": "^0.161.0",
+    "threejs-fbxloader": "^0.0.1"
+  }
+}
